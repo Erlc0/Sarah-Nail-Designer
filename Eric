@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sarah Nail Designer | Beleza, Elegância e Sofisticação</title>
+
+    <meta name="description"
+        content="Sarah Nail Designer - Alongamento em Gel, Blindagem, Nail Art, Manicure, Pedicure e muito mais. Agende seu horário.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!--=========================
+            HEADER
+    ==========================-->
+
+    <header class="header">
+
+        <div class="container">
+
+            <a href="#" class="logo">
+
+                Sarah
+                <span>Nail Designer</span>
+
+            </a>
+
+            <nav class="navbar">
+
+                <ul>
+
+                    <li>
+                        <a href="#inicio">Início</a>
+                    </li>
+
+                    <li>
+                        <a href="#sobre">Sobre</a>
+                    </li>
+
+                    <li>
+                        <a href="#servicos">Serviços</a>
+                    </li>
+
+                    <li>
+                        <a href="#horarios">Horários</a>
+                    </li>
+
+                    <li>
+                        <a href="#galeria">Galeria</a>
+                    </li>
+
+                    <li>
+                        <a href="#avaliacoes">Avaliações</a>
+                    </li>
+
+                    <li>
+                        <a href="#contato">Contato</a>
+                    </li>
+
+                </ul>
+
+            </nav>
+
+            <div class="menu-mobile">
+
+                <i class="fas fa-bars"></i>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <!--=========================
+            HERO
+    ==========================-->
+
+    <section class="hero" id="inicio">
+
+        <div class="overlay"></div>
+
+        <div class="container hero-container">
+
+            <div class="hero-content">
+
+                <span class="subtitle">
+
+                    ✨ Unhas que encantam
+
+                </span>
+
+                <h1>
+
+                    Elegância em cada detalhe.
+
+                </h1>
+
+                <p>
+
+                    Realce sua beleza com unhas impecáveis,
+                    atendimento personalizado e um ambiente
+                    pensado para proporcionar conforto,
+                    autoestima e sofisticação.
+
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a class="btn"
+                        href="https://wa.me/5519993311969?text=Olá%20Sarah!%20Gostaria%20de%20agendar%20um%20horário."
+                        target="_blank">
+
+                        Agendar Horário
+
+                    </a>
+
+                    <a class="btn-outline"
+                        href="#galeria">
+
+                        Ver Trabalhos
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!--=========================
+            SOBRE
+    ==========================-->
+
+    <section class="sobre" id="sobre">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Sobre</span>
+
+                <h2>
+
+                    Muito mais que unhas.
+
+                </h2>
+
+            </div>
+
+            <div class="glass-card">
+
+                <p>
+
+                    Aqui, transformamos o cuidado com as unhas
+                    em um momento de dedicação e carinho para você.
+
+                </p>
+
+                <p>
+
+                    Combinando as tendências atuais com um
+                    atendimento humanizado, meu objetivo é
+                    realçar a sua beleza natural e elevar a sua
+                    autoestima através de unhas impecáveis.
+
+                </p>
+
+                <p>
+
+                    Agende seu horário e venha viver essa experiência!
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!--=========================
+            SERVIÇOS
+    ==========================-->
+
+    <section class="servicos" id="servicos">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Serviços</span>
+
+                <h2>
+
+                    Escolha o cuidado ideal.
+
+                </h2>
+
+            </div>
+
+            <div class="cards">
+
+                <div class="card">
+
+                    <i class="fa-solid fa-hand-sparkles"></i>
+
+                    <h3>
+
+                        Alongamento em Gel
+
+                    </h3>
+
+                    <span>
+
+                        R$120
+
+                    </span>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-gem"></i>
+
+                    <h3>
+
+                        Manutenção
+
+                    </h3>
+
+                    <span>
+
+                        R$70
+
+                    </span>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-shield-heart"></i>
+
+                    <h3>
+
+                        Blindagem
+
+                    </h3>
+
+                    <span>
+
+                        R$60
+
+                    </span>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-droplet"></i>
+
+                    <h3>
+
+                        Esmaltação em Gel
+
+                    </h3>
+
+                    <span>
+
+                        R$55
+
+                    </span>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-heart"></i>
+
+                    <h3>
+
+                        Manicure
+
+                    </h3>
+
+                    <span>
+
+                        R$30
+
+                    </span>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-spa"></i>
+
+                    <h3>
+
+                        Pedicure
+
+                    </h3>
+
+                    <span>
+
+                        R$35
+
+                    </span>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-palette"></i>
+
+                    <h3>
+
+                        Nail Art
+
+                    </h3>
+
+                    <span>
+
+                        A partir de R$15
+
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+    <!--=========================
+            HORÁRIOS
+    ==========================-->
+
+    <section class="horarios" id="horarios">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Horários</span>
+
+                <h2>Atendimento</h2>
+
+            </div>
+
+            <div class="glass-card horario-card">
+
+                <div class="linha">
+
+                    <h3>Segunda a Sexta</h3>
+
+                    <p>09:00 às 18:00</p>
+
+                </div>
+
+                <div class="linha">
+
+                    <h3>Sábado</h3>
+
+                    <p>09:00 às 15:00</p>
+
+                </div>
+
+                <div class="linha">
+
+                    <h3>Domingo</h3>
+
+                    <p>Fechado</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!--=========================
+            GALERIA
+    ==========================-->
+
+    <section class="galeria" id="galeria">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Galeria</span>
+
+                <h2>Alguns Trabalhos</h2>
+
+            </div>
+
+            <div class="galeria-grid">
+
+                <img src="https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=700&q=80" alt="Unhas">
+
+                <img src="https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=700&q=80" alt="Unhas">
+
+                <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=700&q=80" alt="Unhas">
+
+                <img src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=700&q=80" alt="Unhas">
+
+                <img src="https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=700&q=80" alt="Unhas">
+
+                <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=700&q=80" alt="Unhas">
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!--=========================
+            AVALIAÇÕES
+    ==========================-->
+
+    <section class="avaliacoes" id="avaliacoes">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Clientes</span>
+
+                <h2>O que dizem</h2>
+
+            </div>
+
+            <div class="cards">
+
+                <div class="glass-card review">
+
+                    <div class="stars">
+
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+
+                    </div>
+
+                    <p>
+
+                        "Atendimento impecável e unhas perfeitas.
+                        Super recomendo!"
+
+                    </p>
+
+                    <h4>Mariana</h4>
+
+                </div>
+
+                <div class="glass-card review">
+
+                    <div class="stars">
+
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+
+                    </div>
+
+                    <p>
+
+                        "Ambiente lindo, atendimento excelente
+                        e acabamento maravilhoso."
+
+                    </p>
+
+                    <h4>Camila</h4>
+
+                </div>
+
+                <div class="glass-card review">
+
+                    <div class="stars">
+
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+
+                    </div>
+
+                    <p>
+
+                        "Minha nail designer favorita.
+                        Nunca decepciona."
+
+                    </p>
+
+                    <h4>Juliana</h4>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!--=========================
+            CONTATO
+    ==========================-->
+
+    <section class="contato" id="contato">
+
+        <div class="container">
+
+            <div class="glass-card contato-card">
+
+                <h2>
+
+                    Agende seu horário
+
+                </h2>
+
+                <p>
+
+                    Clique abaixo e fale diretamente comigo
+                    pelo WhatsApp.
+
+                </p>
+
+                <a class="btn"
+                    target="_blank"
+                    href="https://wa.me/5519993311969?text=Olá%20Sarah!%20Gostaria%20de%20agendar%20um%20horário.">
+
+                    <i class="fab fa-whatsapp"></i>
+
+                    Agendar Agora
+
+                </a>
+
+                <a class="instagram"
+                    target="_blank"
+                    href="https://instagram.com/">
+
+                    <i class="fab fa-instagram"></i>
+
+                    Instagram
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!--=========================
+            RODAPÉ
+    ==========================-->
+
+    <footer>
+
+        <div class="container">
+
+            <h2>
+
+                Sarah Nail Designer
+
+            </h2>
+
+            <p>
+
+                Beleza • Elegância • Autoestima
+
+            </p>
+
+            <p class="copy">
+
+                © 2026 Todos os direitos reservados.
+
+            </p>
+
+        </div>
+
+    </footer>
+
+    <!--=========================
+        BOTÃO FLUTUANTE WHATSAPP
+    ==========================-->
+
+    <a class="whatsapp"
+        target="_blank"
+        href="https://wa.me/5519993311969?text=Olá%20Sarah!%20Gostaria%20de%20agendar%20um%20horário.">
+
+        <i class="fab fa-whatsapp"></i>
+
+    </a>
+
+    <!--=========================
+            JAVASCRIPT
+    ==========================-->
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
